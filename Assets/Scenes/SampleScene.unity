@@ -197,7 +197,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &301732320
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -336,9 +336,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9d5256ff2fddd748b7ff00ab0c1614f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dado1: 0
-  dado2: 0
-  dado3: 0
+  dado1: 6
+  dado2: 6
+  dado3: 6
 --- !u!4 &628948953
 Transform:
   m_ObjectHideFlags: 0
